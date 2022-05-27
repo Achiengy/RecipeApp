@@ -1,4 +1,4 @@
-# RecipeApp
+# React-RecipeApp
 
 ## Table of Content
 
