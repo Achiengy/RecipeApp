@@ -13,7 +13,7 @@ const RandomMeal = () => {
         <div key={meal.idMeal} className="random-grid">
           <div className="random-grid-controls">
             <img src={meal.strMealThumb} alt="#" />
-            <button onClick={fetchRandomMeal}> Generate Another Meal</button>
+            <button onClick={fetchRandomMeal}> Generate Random Meal</button>
           </div>
 
           <div className="random-grid-instructions">
