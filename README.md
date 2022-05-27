@@ -18,7 +18,7 @@ Install Dependencies
 npm install
 ```
 
-Run examples at http://localhost:8080/ with webpack dev server:
+Run examples at http://localhost:3000/ with webpack dev server:
 ```
 npm start
 ```
